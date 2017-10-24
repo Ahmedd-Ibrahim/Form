@@ -1,0 +1,64 @@
+body{
+  background-color: #f1f1f1;
+}
+h2{
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+  font-weight: 900;
+  letter-spacing: -3;
+  color: #757575;
+}
+.my-form{
+  max-width: 350px;
+  margin: 10px auto;
+}
+.my-form input ,.my-form textarea{
+    margin-bottom: -10px;
+}
+.my-form input{
+  padding-left: 23px;
+}
+.my-form  i{
+  float: left;
+  position: relative;
+  top:-14px;
+  left: 5px;
+  color: #aca29c;
+}
+
+.my-form textarea{
+  height: 100px;
+
+}
+.my-form i.plane{
+
+  left: 95px;
+  color: #FFF;
+}
+.my-form .btn{
+
+  margin-top: 5px;
+  display: block;
+}
+.custom-alert {
+  border: 1px solid #F00;
+  padding: 1px 10px;
+  margin-top: 13px;
+  margin-bottom: 3px;
+  display: none;
+}
+.custom-alert-phone{
+   border: 1px solid #F00;
+  padding: 1px 10px;
+  margin-top: 13px;
+  margin-bottom: 3px;
+  display: none;
+}
+.custom-alert-email{
+  border: 1px solid #F00;
+  padding: 1px 10px;
+  margin-top: 13px;
+  margin-bottom: 3px;
+  display: none;
+}
+}
